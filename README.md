@@ -6,11 +6,11 @@ A sleek and responsive React app to validate Aadhaar numbers in real time using 
 
 ## Submission Details
 
-- **GitHub Repository**: [popx-app](https://github.com/sharmaHarshit2000/popx-app)  
-- **Live Demo**: [View on Vercel](https://popx-app-ten.vercel.app)
+- **GitHub Repository**: [aadhar-card-checker](https://github.com/sharmaHarshit2000/aadhar-card-checker)  
+- **Live Demo**: [View on Vercel](https://aadhar-card-checker.vercel.app)
 
-[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/sharmaHarshit2000/popx-app)
-[![Live on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue?logo=vercel)](https://popx-app-ten.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/Repo-GitHub-black?logo=github)](https://github.com/sharmaHarshit2000/aadhar-card-checker)
+[![Live on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue?logo=vercel)](https://aadhar-card-checker.vercel.app)
 
 
 
