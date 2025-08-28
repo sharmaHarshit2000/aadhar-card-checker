@@ -14,13 +14,26 @@ function App() {
           error: { className: "toast-error", duration: 3000 },
         }}
       />
-      <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-400 to-indigo-600 p-4">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/result" element={<Result />} />
-          <Route path="*" element={<NotFoundPage />} />
-        </Routes>
-      </div>
+
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-400 to-indigo-600 p-4">
+              <Home />
+            </div>
+          }
+        />
+        <Route
+          path="/result"
+          element={
+            <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-400 to-indigo-600 p-4">
+              <Result />
+            </div>
+          }
+        />
+        <Route path="*" element={<NotFoundPage />} />
+      </Routes>
     </Router>
   );
 }
