@@ -115,7 +115,7 @@ aadhar-card-checker/
 ## Submission Details
 
 - **GitHub Repo**: https://github.com/sharmaHarshit2000/aadhar-card-checker
-- **Live Demo**: https://your-deployment-url.vercel.app
+- **Live Demo**: https://aadhar-card-checker.vercel.app
 
 ---
 
