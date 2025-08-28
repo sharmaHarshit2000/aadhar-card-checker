@@ -1,1 +1,21 @@
 @import "tailwindcss";
+
+/* Toast colors */
+.toast-success {
+  background-color: #10b981 !important;
+  color: white !important;
+}
+.toast-error {
+  background-color: #ef4444 !important;
+  color: white !important;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-10px);}
+  to { opacity: 1; transform: translateY(0);}
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.8s ease-out;
+}
